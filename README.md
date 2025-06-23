@@ -78,7 +78,7 @@ But always ask:
 > “Does this *feel* good to use?”
 
 > Because forgettable software is everywhere.  
-> But interfaces that feel alive
+> But interfaces that feel alive?
 > Rare.
 
 ---
