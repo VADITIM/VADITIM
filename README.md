@@ -1,21 +1,22 @@
-# Vadim Niedental — Emotive Systems Designer
+# Vadim Niedental - Emotive Systems Designer
 
 Most developers ship code that works.  
 I ship experiences that *feel right*.
 
-In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is **how it feels to use**. That’s where I operate — at the intersection of interaction, perception, and design.
+In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is **how it feels to use**. That’s where I operate, at the intersection of interaction, perception, and design.
 
 ---
 
 ## 👁️ Philosophy
 
-> “People don’t remember code.  
-> They remember how your interface made them feel.”
+> *“People don’t remember code.  
+> They remember how your interface made them feel.”*
 
 The software world is filled with lifeless buttons, awkward transitions, and UI that exists just to check a box.  
-But real design? It’s intentional. It listens. It moves *with* the user.
+But real design?
+It’s intentional. It listens. It moves *with* the user.
 
-I design emotional trust into digital systems — with motion, rhythm, and feedback that speaks.
+I design emotional trust into digital systems with motion, rhythm, and feedback that speaks.
 
 ---
 
@@ -25,7 +26,7 @@ I design emotional trust into digital systems — with motion, rhythm, and feedb
   Interfaces designed to respond as if they care.
 
 - **Motion & Interaction Design**  
-  Transitions aren’t decorations — they’re conversation.
+  Transitions aren’t decorations; they’re conversation.
 
 - **Vibe-Prototyping**  
   I build fast with intuition and let code serve the feel.
@@ -45,13 +46,12 @@ I design emotional trust into digital systems — with motion, rhythm, and feedb
 > A component suite that explores feedback, microinteraction, and input feel.  
 > Because one good animation does more than 100 lines of perfect logic.
 
-_(More repositories coming — nothing will be filler.)_
-
 ---
 
 ## 🎯 Why This Matters
 
-> **Function is the floor. Feel is the ceiling.**
+> **Function is the floor.
+> Feel is the ceiling.**
 
 As AI eats traditional development, *feeling* is the last frontier.  
 Buttons will always work. But how many invite interaction?
@@ -71,13 +71,14 @@ I don’t build code. I build experiences worth touching again.
 
 ## 🤝 Let’s Build What Sticks
 
-If you design with taste, build with feel, and believe software should move with emotion — we’re on the same page.
+If you design with taste, build with feel, and believe software should move with emotion. We’re on the same page.
 
 Explore my work. Steal ideas. Fork components.  
 But always ask:  
 > “Does this *feel* good to use?”
 
-Because forgettable software is everywhere.  
-But interfaces that feel alive? Rare.
+> Because forgettable software is everywhere.  
+> But interfaces that feel alive
+> Rare.
 
 ---
