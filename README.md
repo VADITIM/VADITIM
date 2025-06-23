@@ -1,4 +1,4 @@
-# Vadim Niedental - Emotive Systems Designer
+# // Vadim Niedental - Emotive Systems Designer
 
 Most developers ship code that works.  
 I ship experiences that *feel right*.
@@ -7,7 +7,7 @@ In an age where AI scaffolds entire systems in seconds, the only thing left that
 
 ---
 
-## 👁️ Philosophy
+## // Philosophy
 
 > *“People don't remember code.  
 > They remember how your interface made them feel.”*
@@ -20,7 +20,7 @@ I design emotional trust into digital systems with motion, rhythm, and feedback 
 
 ---
 
-## 🛠️ What I Do
+## // What I Do
 
 - **Perception-Driven UI/UX**  
   Interfaces designed to respond as if they care.
@@ -36,7 +36,7 @@ I design emotional trust into digital systems with motion, rhythm, and feedback 
 
 ---
 
-## 🔬 Notable Work
+## // Notable Work
 
 ### [`vadimniedental.me`](https://vadimniedental.me)  
 > A portfolio built to *be felt*, not just seen.  
@@ -48,7 +48,7 @@ I design emotional trust into digital systems with motion, rhythm, and feedback 
 
 ---
 
-## 🎯 Why This Matters
+## // Why This Matters
 
 > **Function is the floor.
 > Feel is the ceiling.**
@@ -61,7 +61,7 @@ I build experiences worth touching again.
 
 ---
 
-## 🧠 Actively Deepening
+## // Actively Deepening
 
 - Interface physics & animation timing curves  
 - Godot (C#) + Unity UI motion systems  
@@ -70,7 +70,7 @@ I build experiences worth touching again.
 
 ---
 
-## 🤝 Let Us Build What Sticks
+## // Let Us Build What Sticks
 
 If you design with taste, build with feel, and believe software should move with emotion.
 We are on the same page.
@@ -83,6 +83,6 @@ But always ask yourself:
 
 **Because forgettable software is everywhere.  
 But interfaces that feel alive?
-These are *rare*.**
+These are *rare* but most important <ins>memorable</ins>.**
 
 ---
