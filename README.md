@@ -3,13 +3,14 @@
 Most developers ship code that works.  
 I ship experiences that *feel right*.
 
-In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is **how it feels to use**. That’s where I operate, at the intersection of interaction, perception, and design.
+In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is <ins>**how it feels to use**</ins>.
+That is where I operate, at the intersection of interaction, perception, and design.
 
 ---
 
 ## 👁️ Philosophy
 
-> *“People don’t remember code.  
+> *“People don’t remember code.
 > They remember how your interface made them feel.”*
 
 The software world is filled with lifeless buttons, awkward transitions, and UI that exists just to check a box.  
@@ -77,8 +78,8 @@ Explore my work. Steal ideas. Fork components.
 But always ask:  
 > “Does this *feel* good to use?”
 
-> Because forgettable software is everywhere.  
-> But interfaces that feel alive?
-> Rare.
+Because forgettable software is everywhere.  
+But interfaces that feel alive?
+That is rare.
 
 ---
