@@ -3,19 +3,18 @@
 Most developers ship code that works.  
 I ship experiences that *feel right*.
 
-In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is <ins>**how it feels to use**</ins>.
-That is where I operate, at the intersection of interaction, perception, and design.
+In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is **how it feels to use**. That is where I operate, at the intersection of interaction, perception, and design.
 
 ---
 
 ## 👁️ Philosophy
 
-> *“People don’t remember code.
+> *“People don’t remember code.  
 > They remember how your interface made them feel.”*
 
 The software world is filled with lifeless buttons, awkward transitions, and UI that exists just to check a box.  
 But real design?
-It’s intentional. It listens. It moves *with* the user.
+It is intentional. It listens. It moves *with* the user.
 
 I design emotional trust into digital systems with motion, rhythm, and feedback that speaks.
 
@@ -27,7 +26,7 @@ I design emotional trust into digital systems with motion, rhythm, and feedback 
   Interfaces designed to respond as if they care.
 
 - **Motion & Interaction Design**  
-  Transitions aren’t decorations; they’re conversation.
+  Transitions are not decorations; they are conversation.
 
 - **Vibe-Prototyping**  
   I build fast with intuition and let code serve the feel.
@@ -54,10 +53,11 @@ I design emotional trust into digital systems with motion, rhythm, and feedback 
 > **Function is the floor.
 > Feel is the ceiling.**
 
-As AI eats traditional development, *feeling* is the last frontier.  
+As AI eats traditional development, <ins>*feeling*</ins> is the last frontier.  
 Buttons will always work. But how many invite interaction?
 
-I don’t build code. I build experiences worth touching again.
+I do not build code.
+I build experiences worth touching again.
 
 ---
 
@@ -70,16 +70,19 @@ I don’t build code. I build experiences worth touching again.
 
 ---
 
-## 🤝 Let’s Build What Sticks
+## 🤝 Let Us Build What Sticks
 
-If you design with taste, build with feel, and believe software should move with emotion. We’re on the same page.
+If you design with taste, build with feel, and believe software should move with emotion.
+We are on the same page.
 
-Explore my work. Steal ideas. Fork components.  
-But always ask:  
+Explore my work.
+Steal ideas.
+Fork components.  
+But always ask yourself:  
 > “Does this *feel* good to use?”
 
-Because forgettable software is everywhere.  
+**Because forgettable software is everywhere.  
 But interfaces that feel alive?
-That is rare.
+These are *rare*.**
 
 ---
