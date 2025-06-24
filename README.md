@@ -72,8 +72,8 @@ I build experiences worth touching again.
 
 ## // Teck Stack
 
-![Godot](godot_icon.png)
-![Unity](unity_icon.png)
+![Godot](images/godot_icon.png)
+![Unity](images/unity_icon.png)
 
 Explore my work.
 Steal ideas.
