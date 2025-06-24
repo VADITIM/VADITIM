@@ -18,7 +18,7 @@ It is intentional. It listens. It moves *with* the user.
 
 I design emotional trust into digital systems with motion, rhythm, and feedback that speaks.
 
--
+--
 
 > **Function is the floor.
 > Feel is the ceiling.**
