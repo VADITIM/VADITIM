@@ -70,7 +70,7 @@ I build experiences worth touching again.
 
 ---
 
-## // Teck Stack
+## // Tech Stack
 
 ![C#](images/csharp_icon.png)
 ![.NET](images/dotnet_icon.png)
