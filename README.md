@@ -73,11 +73,14 @@ I build experiences worth touching again.
 ## // Teck Stack
 
 ![C#](images/csharp_icon.png)
-![HTML](images/html_css_js_icon.png)
+![.NET](images/dotnet_icon.png)
 
 ![Godot](images/godot_icon.png)
 ![Unity](images/unity_icon.png)
 
+![HTML](images/html_css_js_icon.png)
+
+---
 
 Explore my work.
 Steal ideas.
