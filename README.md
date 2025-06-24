@@ -75,6 +75,11 @@ I build experiences worth touching again.
 ![Godot](images/godot_icon.png)
 ![Unity](images/unity_icon.png)
 
+![HTML](images/html_icon.png)
+![CSS](images/css_icon.png)
+![JavaScript](images/js_icon.png)
+
+
 Explore my work.
 Steal ideas.
 Fork components.  
