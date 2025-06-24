@@ -54,7 +54,8 @@ I build experiences worth touching again.
 
 ### ~`ui-rhythm-lab`~  
 > ~A component suite that explores feedback, microinteraction, and input feel.~
-> Because one good animation does more than 100 lines of perfect logic.
+> 
+> ~Because one good animation does more than 100 lines of perfect logic.~
 
 ---
 
