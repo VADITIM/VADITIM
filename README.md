@@ -70,10 +70,10 @@ I build experiences worth touching again.
 
 ---
 
-## // Let Us Build What Sticks
+## // Teck Stack
 
-If you design with taste, build with feel, and believe software should move with emotion.
-We are on the same page.
+![Godot](godot_icon.png)
+![Unity](unity_icon.png)
 
 Explore my work.
 Steal ideas.
