@@ -18,6 +18,18 @@ It is intentional. It listens. It moves *with* the user.
 
 I design emotional trust into digital systems with motion, rhythm, and feedback that speaks.
 
+-
+
+> **Function is the floor.
+> Feel is the ceiling.**
+
+As AI eats traditional development, <ins>*feeling*</ins> is the last frontier.  
+Buttons will always work. But how many invite interaction?
+
+I do not build code.
+I build experiences worth touching again.
+
+
 ---
 
 ## // What I Do
@@ -50,14 +62,6 @@ I design emotional trust into digital systems with motion, rhythm, and feedback 
 
 ## // Why This Matters
 
-> **Function is the floor.
-> Feel is the ceiling.**
-
-As AI eats traditional development, <ins>*feeling*</ins> is the last frontier.  
-Buttons will always work. But how many invite interaction?
-
-I do not build code.
-I build experiences worth touching again.
 
 ---
 
