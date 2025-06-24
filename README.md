@@ -52,8 +52,8 @@ I build experiences worth touching again.
 > A portfolio built to *be felt*, not just seen.  
 > Full-screen sections, motion-based navigation, tactile UI components.
 
-~### `ui-rhythm-lab`  
-> A component suite that explores feedback, microinteraction, and input feel.  
+### ~`ui-rhythm-lab`~  
+> ~A component suite that explores feedback, microinteraction, and input feel.~
 > Because one good animation does more than 100 lines of perfect logic.
 
 ---
