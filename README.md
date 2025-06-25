@@ -59,12 +59,15 @@ I build experiences worth touching again.
 
 ---
 
-## // Actively Deepening
+Explore my work.
+Steal ideas.
+Fork components.  
+But always ask yourself:  
+> “Does this *feel* good to use?”
 
-- Interface physics & animation timing curves  
-- Godot (C#) + Unity UI motion systems  
-- Cross-platform perceptual design principles  
-- UX behavior testing & human feedback loops
+**Because forgettable software is everywhere.  
+But interfaces that feel alive?
+These are *rare* but most important <ins>memorable</ins>.**
 
 ---
 
@@ -77,17 +80,5 @@ I build experiences worth touching again.
 ![Unity](images/unity_icon.png)
 
 ![HTML](images/html_css_js_icon.png)
-
----
-
-Explore my work.
-Steal ideas.
-Fork components.  
-But always ask yourself:  
-> “Does this *feel* good to use?”
-
-**Because forgettable software is everywhere.  
-But interfaces that feel alive?
-These are *rare* but most important <ins>memorable</ins>.**
 
 ---
