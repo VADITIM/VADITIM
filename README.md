@@ -13,14 +13,15 @@ In an age where AI scaffolds entire systems in seconds, the only thing left that
 > They remember how your interface made them feel.”*
 
 The software world is filled with lifeless buttons, awkward transitions, and UI that exists just to check a box.  
+Code *only exists* to operate the machine.
 But real design?
-It is intentional. It listens. It moves *with* the user.
+It is intentional. It listens. It moves *with the user*.
 
 I design emotional trust into digital systems with motion, rhythm, and feedback that speaks.
 
 
-> **Function is the floor.
-> Feel is the ceiling.**
+> **Function is the floor.**
+> **Feel is the ceiling.**
 
 As AI eats traditional development, <ins>*feeling*</ins> is the last frontier.  
 Buttons will always work. But how many invite interaction?
@@ -71,7 +72,7 @@ These are *rare* but most important <ins>memorable</ins>.**
 
 ---
 
-## // Tech Stack
+## // Operating With
 
 ![C#](images/csharp_icon.png)
 ![.NET](images/dotnet_icon.png)
