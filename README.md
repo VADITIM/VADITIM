@@ -49,14 +49,9 @@ I build experiences worth touching again.
 
 ## // Notable Work
 
-### [`vadimniedental.me`](https://vadimniedental.me)  
+### ~[`vadimniedental.me`](https://vadimniedental.me)  ~
 > A portfolio built to *be felt*, not just seen.  
 > Full-screen sections, motion-based navigation, tactile UI components.
-
-### ~`ui-rhythm-lab`~  
-> ~A component suite that explores feedback, microinteraction, and input feel.~
-> 
-> ~Because one good animation does more than 100 lines of perfect logic.~
 
 ---
 
