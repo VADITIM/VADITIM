@@ -49,7 +49,7 @@ I build experiences worth touching again.
 
 ## // Notable Work
 
-### ~[`vadimniedental.me`](https://vadimniedental.me)  ~
+### ~[`Portfolio`](https://vaditim.github.io/)  ~
 > A portfolio built to *be felt*, not just seen.  
 > Full-screen sections, motion-based navigation, tactile UI components.
 
