@@ -28,13 +28,12 @@ considered rather than assembled.
 ## Notable Work
 
 **[Portfolio](https://vaditim.github.io/)**
-Full-screen sections, motion-based
-navigation, tactile UI components. Built to be felt, not just scrolled through.
+Full-screen sections, motion-based navigation. 
+Tactile UI components, built to be felt, not just scrolled through.
 
 **[VAD/OS](https://github.com/VADITIM/VADOS)**
-Full-screen sections, motion-based
-navigation, tactile UI components. Built to be felt, not just scrolled through.
-
+Terminal Shell with markdown support. 
+GUI features, improvements to navigation & readability  
 ---
 
 Explore it. Fork the components. Steal what's useful.
