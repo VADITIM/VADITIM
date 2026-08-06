@@ -1,68 +1,41 @@
-# // Vadim Niedental - Emotive Systems Designer
+// Vadim Niedental | Emotive Systems Designer
 
-Most developers ship code that works.  
-I ship experiences that *feel right*.
+I design the parts of software that make people want to keep touching it.
 
-In an age where AI scaffolds entire systems in seconds, the only thing left that truly matters is <ins>**how it feels to use**</ins>. That is where I operate, at the intersection of interaction, perception, and design.
-
----
-
-## // Philosophy
-
-> *“People don't remember code.  
-> They remember how your interface made them feel.”*
-
-The software world is filled with lifeless buttons, awkward transitions, and UI that exists just to check a box.  
-Code *only exists* to operate the machine.
-But real design?
-It is intentional. It listens. It moves *with the user*.
-
-I design emotional trust into digital systems with motion, rhythm, and feedback that speaks.
-
-
-> **Function is the floor.**
-> **Feel is the ceiling.**
-
-As AI eats traditional development, <ins>*feeling*</ins> is the last frontier.  
-Buttons will always work. But how many invite interaction?
-
-I do not build code.
-I build experiences worth touching again.
+AI can scaffold a working system in seconds now. Code that runs isn't
+the differentiator anymore; how it feels to use is. That's where I work:
+interaction, perception, motion, feedback.
 
 ---
 
-## // What I Do
+## Philosophy
 
-- **Perception-Driven UI/UX**  
-  Interfaces designed to respond as if they care.
-
-- **Motion & Interaction Design**  
-  Transitions are not decorations; they are conversation.
-
-- **Vibe-Prototyping**  
-  I build fast with intuition and let code serve the feel.
-
-- **Digital Empathy**  
-  Systems that behave like good listeners: predictable, smooth, and satisfying.
+Code operates the machine. Design decides whether anyone wants to.
+I build interfaces with rhythm and response, the kind that feel
+considered rather than assembled.
 
 ---
 
-## // Notable Work
+## What I Do
 
-### ~[`Portfolio`](https://vaditim.github.io/)  ~
-> A portfolio built to *be felt*, not just seen.  
-> Full-screen sections, motion-based navigation, tactile UI components.
+- **Perception-driven UI/UX** | interfaces that respond like they're paying attention
+- **Motion & interaction design** | transitions that carry meaning, not decoration
+- **Vibe-prototyping** | building fast on intuition, letting the code catch up
+- **Digital empathy** | predictable, smooth, satisfying systems
+
+---
+
+## Notable Work
+
+**[Portfolio](https://vaditim.github.io/)**
+Full-screen sections, motion-based
+navigation, tactile UI components. Built to be felt, not just scrolled through.
+
+**[VAD/OS](https://github.com/VADITIM/VADOS)**
+Full-screen sections, motion-based
+navigation, tactile UI components. Built to be felt, not just scrolled through.
 
 ---
 
-Explore my work.
-Steal ideas.
-Fork components.  
-But always ask yourself:  
-> “Does this *feel* good to use?”
-
-**Because forgettable software is everywhere.  
-But interfaces that feel alive?
-These are *rare* but most important <ins>memorable</ins>.**
-
----
+Explore it. Fork the components. Steal what's useful.
+Just check whether it feels right before you ship it.
