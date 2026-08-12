@@ -27,13 +27,16 @@ considered rather than assembled.
 
 ## Notable Work
 
-**[Portfolio](https://vaditim.github.io/)**
+### [Portfolio](https://vaditim.github.io/)
 Full-screen sections, motion-based navigation. 
 Tactile UI components, built to be felt, not just scrolled through.
 
-**[VAD/OS](https://github.com/VADITIM/VADOS)**
-Terminal Shell with markdown support. 
-GUI features, improvements to navigation & readability  
+### [VAD/OS](https://github.com/VADITIM/VADOS)
+A Terminal focusing on UX.
+GUI based Terminal with actual features over bloat with the power of CLI.
+Improve your Terminal sessions with **readable** output with support on markdown over markup.
+
+
 ---
 
 Explore it. Fork the components. Steal what's useful.
