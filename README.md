@@ -1,4 +1,5 @@
-# // Vadim Niedental | Emotive Systems Designer
+# // VADITIM | Emotive Systems Designer
+/ Vadim Niedental
 
 I design the parts of software that make people want to keep touching it.
 
