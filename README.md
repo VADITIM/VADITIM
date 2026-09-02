@@ -1,4 +1,3 @@
-/ Vadim Niedental
 # // VADITIM | Emotive Systems Designer
 
 
