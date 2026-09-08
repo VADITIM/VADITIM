@@ -32,10 +32,14 @@ considered rather than assembled.
 Full-screen sections, motion-based navigation. 
 Tactile UI components, built to be felt, not just scrolled through.
 
-### [VAD/OS](https://github.com/VADITIM/VADOS)
+### [VADOS Terminal](https://github.com/VADITIM/VADOS)
 A Terminal focusing on UX.
 GUI based Terminal with actual features over bloat with the power of CLI.
 Improve your Terminal sessions with **readable** output with support on markdown over markup.
+
+### [VADOS Bubble](https://github.com/VADITIM/VADOS-BUBBLE)
+Heavily animated and optimized Dynamic Island for Android.
+Features everything and more as Apple's own Dynamic Island.
 
 
 ---
