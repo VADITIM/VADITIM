@@ -7,6 +7,8 @@ AI can scaffold a working system in seconds now. Code that runs isn't
 the differentiator anymore; how it feels to use is. That's where I work:
 interaction, perception, motion, feedback.
 
+`VADOS` handles the heavy lifting - A bespoken styling & component system engineered for interfaces, animations, timelines, and every detail that mirrors my signature design language.
+
 ---
 
 ## Philosophy
