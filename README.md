@@ -40,9 +40,12 @@ GUI based Terminal with actual features over bloat with the power of CLI.
 Improve your Terminal sessions with **readable** output with support on markdown over markup.
 
 ### [VADOS Bubble](https://github.com/VADITIM/VADOS-BUBBLE)
-Heavily animated and optimized Dynamic Island for Android.
+Heavily animated and optimized Dynamic Island and System Tray overhaul for Android.
 Features everything and more as Apple's own Dynamic Island.
 
+### [VADOS Gallery](https://github.com/VADITIM/VADOS-GALLERY)
+An image gallery for Android without the bloat.
+Enjoy eye-guiding animations with features that matter for everyday use.
 
 ---
 
