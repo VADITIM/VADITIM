@@ -31,25 +31,25 @@ considered rather than assembled.
 ## Notable Work
 
 ### V/AS
-VAD/OS Application Systems is my personal library of skills, animations, timelines, and UI components: a design language that acts as both guide and ruler.
-Used correctly with AI, it becomes especially powerful and goes well beyond blunt, generic UI/UX design.
+> VAD/OS Application Systems is my personal library of skills, animations, timelines, and UI components: a design language that acts as both guide and ruler.
+> Used correctly with AI, it becomes especially powerful and goes well beyond blunt, generic UI/UX design.
 
 ### [Portfolio](https://vaditim.github.io/)
-Full-screen sections, motion-based navigation. 
-Tactile UI components, built to be felt, not just scrolled through.
+> Full-screen sections, motion-based navigation. 
+> Tactile UI components, built to be felt, not just scrolled through.
 
 ### [VAD/OS Terminal](https://github.com/VADITIM/VADOS)
-A Terminal focusing on UX.
-GUI based Terminal with actual features over bloat with the power of CLI.
-Improve your Terminal sessions with **readable** output with support on markdown over markup.
+> A Terminal focusing on UX.
+> GUI based Terminal with actual features over bloat with the power of CLI.
+> Improve your Terminal sessions with **readable** output with support on markdown over markup.
 
 ### [VAD/OS Bubble](https://github.com/VADITIM/VADOS-BUBBLE)
-Heavily animated and optimized Dynamic Island and System Tray overhaul for Android.
-Features everything and more as Apple's own Dynamic Island.
+> Heavily animated and optimized Dynamic Island and System Tray overhaul for Android.
+> Features everything and more as Apple's own Dynamic Island.
 
 ### [VAD/OS Gallery](https://github.com/VADITIM/VADOS-GALLERY)
-An image gallery for Android without the bloat.
-Enjoy eye-guiding animations with features that matter for everyday use.
+> An image gallery for Android without the bloat.
+> Enjoy eye-guiding animations with features that matter for everyday use.
 
 ---
 
