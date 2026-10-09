@@ -38,7 +38,7 @@ considered rather than assembled.
 > Full-screen sections, motion-based navigation. 
 > Tactile UI components, built to be felt, not just scrolled through.
 
-### [VAD/OS Terminal](https://github.com/VADITIM/VADOS)
+### [VAD/OS Terminal](https://github.com/VADITIM/VADOS-TERMINAL)
 > A Terminal focusing on UX.
 > GUI based Terminal with actual features over bloat with the power of CLI.
 > Improve your Terminal sessions with **readable** output with support on markdown over markup.
